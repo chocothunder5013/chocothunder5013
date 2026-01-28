@@ -1,1 +1,1 @@
-[!My Header](image.svg)
+![My Header](image.svg)
